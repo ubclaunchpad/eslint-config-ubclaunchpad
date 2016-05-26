@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ubclaunchpad",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JavaScript code standards for UBC Launch Pad",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/ubclaunchpad/eslint-config-ubclaunchpad",
   "peerDependencies": {
-    "eslint-config-airbnb": "latest"
+    "eslint-config-airbnb": "^9.0.0"
   }
 }
