@@ -19,11 +19,5 @@
   "bugs": {
     "url": "https://github.com/ubclaunchpad/eslint-config-ubclaunchpad/issues"
   },
-  "homepage": "https://github.com/ubclaunchpad/eslint-config-ubclaunchpad",
-	"peerDependencies": {
-		"babel-eslint": "6.0.0",
-		"eslint": "2.5.3",
-		"eslint-plugin-babel": "3.1.0",
-		"eslint-plugin-react": "4.2.3"
-	}
+  "homepage": "https://github.com/ubclaunchpad/eslint-config-ubclaunchpad"
 }
