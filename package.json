@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ubclaunchpad/eslint-config-ubclaunchpad/issues"
   },
-  "homepage": "https://github.com/ubclaunchpad/eslint-config-ubclaunchpad"
+  "homepage": "https://github.com/ubclaunchpad/eslint-config-ubclaunchpad",
+  "peerDependencies": {
+    "eslint-config-airbnb": "latest"
+  }
 }
