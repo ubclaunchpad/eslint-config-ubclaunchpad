@@ -14,6 +14,7 @@ module.exports = {
 		"indent": ["error", "tab", {SwitchCase: 1}],
 		"new-cap": 0,
 		"no-underscore-dangle": 0,
+		"no-tabs": 0,
 		"object-curly-spacing": 0,
 		"react/jsx-closing-bracket-location": ["error", "after-props"],
 		"react/jsx-indent": ["error", "tab"],

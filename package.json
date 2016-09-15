@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/ubclaunchpad/eslint-config-ubclaunchpad",
   "peerDependencies": {
-    "eslint-config-airbnb": "^9.0.0"
+    "eslint-config-airbnb": "^11.0.0"
   }
 }
