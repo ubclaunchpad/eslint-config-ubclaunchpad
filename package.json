@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ubclaunchpad",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "JavaScript code standards for UBC Launch Pad",
   "main": "index.js",
   "scripts": {
