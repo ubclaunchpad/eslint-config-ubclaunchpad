@@ -9,8 +9,11 @@ module.exports = {
 		"react"
 	],
 	"rules": {
+		"arrow-parens": ["error", "as-needed"],
 		"block-spacing": ["error", "never"],
+		"class-methods-use-this": 0,
 		"comma-dangle": ["error", "never"],
+		"import/no-extraneous-dependencies": 0,
 		"indent": ["error", "tab", {SwitchCase: 1}],
 		"new-cap": 0,
 		"no-underscore-dangle": 0,
