@@ -5,7 +5,7 @@ The JavaScript code standards used at UBC Launch Pad.
 ## Installation
 
 
-`npm install --save-dev eslint-config-airbnb eslint-config-ubclaunchpad eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y eslint`
+`npm install --save-dev eslint-config-ubclaunchpad eslint-config-airbnb babel-eslint eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y eslint`
 
 ## Usage
 
