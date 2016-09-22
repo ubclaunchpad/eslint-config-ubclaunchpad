@@ -24,7 +24,7 @@ module.exports = {
 		"react/jsx-filename-extension": 0,
 		"react/jsx-indent": ["error", "tab"],
 		"react/jsx-indent-props": ["error", "tab"],
-		"react/prefer-stateless-function": ["warning"],
+		"react/prefer-stateless-function": 1,
 		"react/sort-comp": 0,
 		"sort-imports": ["error", {ignoreCase: true}],
 		"space-before-function-paren": 0
