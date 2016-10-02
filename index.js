@@ -1,11 +1,25 @@
 module.exports = {
-	"extends": "airbnb",
 	"ecmaFeatures": {
 		"classes": true,
 		"jsx": true
 	},
+	"env": {
+		"browser": true,
+		"node": true,
+		"jest": true
+	},
+	"extends": [
+		"eslint:recommended",
+		"plugin:import/errors",
+		"plugin:react/recommended"
+	],
 	"parser": "babel-eslint",
+	"parserOptions": {
+		"ecmaVersion": 2016,
+		"sourceType": "module"
+	},
 	"plugins": [
+		"import",
 		"react"
 	],
 	"rules": {
