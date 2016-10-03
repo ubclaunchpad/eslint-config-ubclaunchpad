@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ubclaunchpad",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "JavaScript code standards for UBC Launch Pad",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/ubclaunchpad/eslint-config-ubclaunchpad",
   "peerDependencies": {
     "babel-eslint": "7.0.0",
-    "eslint": "3.6.1",
+    "eslint": "3.7.0",
     "eslint-plugin-import": "2.0.0",
     "eslint-plugin-react": "6.3.0"
   }
