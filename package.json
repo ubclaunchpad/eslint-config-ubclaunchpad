@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/ubclaunchpad/eslint-config-ubclaunchpad",
   "peerDependencies": {
-    "babel-eslint": "7.0.0",
-    "eslint": "3.7.0",
-    "eslint-plugin-import": "2.0.0",
-    "eslint-plugin-react": "6.4.1"
+    "babel-eslint": "^7.0.0",
+    "eslint": "^3.7.0",
+    "eslint-plugin-import": "^2.0.0",
+    "eslint-plugin-react": "^6.4.1"
   }
 }
