@@ -40,6 +40,7 @@ module.exports = {
 		"jsx-quotes": ["error", "prefer-double"],
 		"new-cap": "error",
 		"no-eval": 2,
+		"no-fallthrough": "error",
 		"no-param-reassign": 2,
 		"no-trailing-spaces": 2,
 		"quotes": ["error", "single", {
@@ -62,10 +63,6 @@ module.exports = {
 		"max-len": [1, 100],
 		"no-alert": 1,
 		"no-console": 1,
-		"no-magic-numbers": [1, {
-			"ignore": [1],
-			"ignoreArrayIndexes": true
-		}],
 		"no-warning-comments": 1,
 		"react/prefer-stateless-function": 1,
 
