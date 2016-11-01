@@ -1,8 +1,4 @@
 module.exports = {
-	"ecmaFeatures": {
-		"classes": true,
-		"jsx": true
-	},
 	"env": {
 		"browser": true,
 		"node": true,
@@ -16,6 +12,10 @@ module.exports = {
 	"parser": "babel-eslint",
 	"parserOptions": {
 		"ecmaVersion": 2016,
+		"ecmaFeatures": {
+			"classes": true,
+			"jsx": true
+		},
 		"sourceType": "module"
 	},
 	"plugins": [
@@ -50,9 +50,11 @@ module.exports = {
 		"no-var": 2,
 		"prefer-arrow-callback": 2,
 		"prefer-const": 2,
+		"react/display-name": [2, {"ignoreTranspilerName": true}],
 		"react/jsx-closing-bracket-location": ["error", "after-props"],
 		"react/jsx-indent": ["error", "tab"],
 		"react/jsx-indent-props": ["error", "tab"],
+		"react/prop-types": 2,
 		"space-before-function-paren": "error",
 		"space-infix-ops": "error",
 		"spaced-comment": ["error", "always"],
