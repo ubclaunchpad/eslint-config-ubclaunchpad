@@ -48,6 +48,7 @@ module.exports = {
 			avoidEscape: true
 		}],
 		"no-var": 2,
+		"object-curly-spacing": ["error", "never"],
 		"prefer-arrow-callback": 2,
 		"prefer-const": 2,
 		"react/display-name": [2, {"ignoreTranspilerName": true}],
