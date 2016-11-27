@@ -2,6 +2,7 @@ module.exports = {
 	"env": {
 		"browser": true,
 		"node": true,
+		"es6": true,
 		"jest": true
 	},
 	"extends": [
@@ -76,7 +77,6 @@ module.exports = {
 		"new-cap": 0,
 		"no-underscore-dangle": 0,
 		"no-tabs": 0,
-		"object-curly-spacing": 0,
 		"react/jsx-filename-extension": 0,
 		"react/sort-comp": 0,
 		"space-before-function-paren": 0
